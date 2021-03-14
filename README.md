@@ -4,5 +4,5 @@
 ![교재](https://user-images.githubusercontent.com/59727902/111059871-0961ad80-84dc-11eb-96f3-81bc475e675a.PNG) <br>
 
 # 2. 스터디 날짜 <br>
-2021.03.01 ~ 현재
+2021.03.01 ~ <br>
 현재 진행중
